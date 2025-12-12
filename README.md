@@ -11,3 +11,5 @@ Labs
 
 Projects
 * [Project 1|Starfall: A Journey Through Shadows - HTML and CSS Web Game](https://github.com/jareynos/csci4208-portfolio-2025/tree/main/projects/project-01)
+* Project 2
+* [Project 3/Capstone | Flashcard Decks](https://github.com/jareynos/Adv_Web_Apps_Capstone_Flashcard_Decks/tree/main)
