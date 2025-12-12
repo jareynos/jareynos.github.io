@@ -10,4 +10,4 @@ Labs
 * [Lab 7 - Mock Document DB](https://github.com/jareynos/csci4208-portfolio-2025/tree/main/labs/lab-07)
 
 Projects
-* Project 1 - HTML and CSS Web Game
+* [Project 1|Starfall: A Journey Through Shadows - HTML and CSS Web Game](https://github.com/jareynos/csci4208-portfolio-2025/tree/main/projects/project-01)
